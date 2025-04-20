@@ -1,0 +1,68 @@
+QWidget {
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    background-color: #1e1e1e;
+    color: #dcdcdc;
+}
+
+QPushButton {
+    background-color: #3c3c3c;
+    color: #ffffff;
+    border-radius: 6px;
+    padding: 8px 14px;
+}
+
+QPushButton:hover {
+    background-color: #5c5c5c;
+}
+
+QLineEdit, QTextEdit {
+    background-color: #2e2e2e;
+    color: #ffffff;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+QStatusBar {
+    background: #2e2e2e;
+    color: #ffffff;
+}
+
+QHeaderView::section {
+    background-color: #3c3c3c;
+    color: #ffffff;
+    padding: 4px;
+    border: 1px solid #444;
+    font-weight: bold;
+}
+
+/* Slick Scrollbars */
+QScrollBar:vertical {
+    background: #2e2e2e;
+    width: 10px;
+}
+QScrollBar::handle:vertical {
+    background: #5c5c5c;
+    border-radius: 4px;
+}
+QScrollBar::handle:vertical:hover {
+    background: #787878;
+}
+QScrollBar:horizontal {
+    background: #2e2e2e;
+    height: 10px;
+}
+QScrollBar::handle:horizontal {
+    background: #5c5c5c;
+    border-radius: 4px;
+}
+QScrollBar::handle:horizontal:hover {
+    background: #787878;
+}
+QLabel#titleLabel {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
