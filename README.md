@@ -103,9 +103,11 @@ dashgraph/
 ```
 
 ---
+## 📸 UI explanations
+![image](https://github.com/user-attachments/assets/d1fbbd68-f29c-4728-9799-25718a732d61)
 
-## 📸 Screenshots
-Coming soon!
+## 📄 Sample Reports
+sample smart EDA reports can be found in the eda_reports folder
 
 ---
 
@@ -152,4 +154,11 @@ Try asking: _"Compare sales and returns by product category using a grouped bar 
 ---
 
 > Designed for humans. Powered by AI.
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/b798b3f9-112c-4a51-803b-cf254cbd8f91)
+![image](https://github.com/user-attachments/assets/89f56a8c-3c5a-49c4-9250-9b6cd66f6822)
+![image](https://github.com/user-attachments/assets/15c24f48-d037-46aa-acda-caf785669a27)
+![image](https://github.com/user-attachments/assets/938a49e3-16fa-4f28-87da-03642d8d806b)
+![image](https://github.com/user-attachments/assets/2555ef46-648c-42c4-bca5-3dd3c621e964)
 
