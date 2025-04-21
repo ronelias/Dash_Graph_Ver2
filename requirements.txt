@@ -1,0 +1,7 @@
+PyQt5>=5.15
+pandas>=1.5
+matplotlib>=3.5
+seaborn>=0.12
+missingno>=0.5
+openai>=1.0
+python-dotenv>=1.0
